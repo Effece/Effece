@@ -1,5 +1,5 @@
-# Effece, Effeceus
+# Effece
 
-Hi, I suppose. I'm a french 15 years old usual developer.
-I mainly use Python, but I'm also trying to learn new languages, like Java or C / C++.
-I like to create simple programs and make them complex slowly.
+Hi. I'm a 16yo programmer.
+I mainly use Python, but I'm also trying to learn new languages, like Java, C / C++ (also D), Pascal...
+I have nothing to say other than the fact that I have nothing to say making me say something which isn't nothing as I said before.
