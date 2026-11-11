@@ -1,5 +1,5 @@
 # Effece
-18 year old cat.
+20 year old cat.
 I have nothing to say other than the fact that I have nothing to say making me say something which isn't nothing as I said before.
 ## Programming history
 My first steps were in Scratch, in 2015 (8yo), mostly consisting of minigames but also a few math and geometry concepts.
